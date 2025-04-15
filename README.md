@@ -1,5 +1,3 @@
-# Aquart
-
 Smart Water Monitoring - Machine Learning Challenge - Hackerearth
 -----------------------------------------------------------------
 Author: Sreenija Earanki
